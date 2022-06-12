@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/43232763/173249210-be7fd0e0-21e9-421c-8629-844fe13b2392.png)
 
-## Windows自带语音接口，文本合成wav
+### Windows自带语音接口，文本合成wav，下载：https://github.com/xmimu/TextToSpeech/releases/tag/0.1
 ###    使用：
 
 1. 启动时自动获取Windows已安装的语音，但是设置里有三个，程序只能拿到一个huihui和另一个英文的角色，暂时不知道什么原因。
